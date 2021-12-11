@@ -1,10 +1,9 @@
 <h1 align="left">Hi 👋, I'm Kalpana Tamatam</h1>
-    <h3 align="left"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm a passionate programmer and enthusiastic developer with a keen interest in software development and Competitive Programming. My love towards web developement made me to build and apply algorithms to solve real-world problems.
-    <br/>
-    </h3>
+    <h3 align="left"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm a passionate programmer and enthusiastic developer with a keen interest in software development and Competitive Programming. My love towards web developement made me to build and apply algorithms to solve real-world problems.</h3>
     <h3 align="left"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As a professional, I am passionate and excited by innovation. As an engineer, I am detail-oriented and analytical and a good problem solver. I really love to collaborate with other developers on interesting projects.</h3>
+<br/>
 
-
+### About Me:
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
@@ -19,27 +18,43 @@
 - 📄 Know about my education [Resume](https://drive.google.com/file/d/1x0hBf_XQ6Eathjlo4W_10lhgWbYDXZY1/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
+<br/>
 
-
-<h3 align="left">Get in touch with:</h3>
+### Get in touch with:
 <p align="left">
 <a href="https://www.linkedin.com/in/kalpana-tamatam-1234-k/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="30" /></a>
 <a href="https://medium.com/@kalpanathamatam1822000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="50" /></a>
 <a href="https://www.hackerrank.com/kalpanathamatam1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
 <a href="https://www.twitter.com/KTamatam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
 </p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+### Languages and Tools:
 
+- 🚀 Languages - **HTML, CSS, JavaScript, Java**
+- 🚀 FrameWork/Libraries - **React.js, Express.js**
+- 🚀 Databases/Backend - **MongoDB, Redis, Node.js, Mysql**
+- 🚀 Others - **Git, Python, VSCode, Postman**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalpana123-1&show_icons=true&locale=en&layout=compact" alt="kalpana123-1" /></p>
+<p align="left"> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://www.pngfind.com/pngs/m/685-6854994_react-logo-no-background-hd-png-download.png" width="48" height="48"/> </a> 
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.pngkit.com/png/full/225-2254691_9kib-354x415-unnamed-mongodb-logo-svg.png" alt="mongodb" width="48" height="48"/> </a> 
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
+    <br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalpana123-1&show_icons=true&locale=en" alt="kalpana123-1" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalpana123-1&show_icons=true&locale=en&layout=compact" alt="kalpana123-1" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=kalpana123-1&show_icons=true&locale=en" alt="kalpana123-1" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalpana123-1&" alt="kalpana123-1" /></p>
+<br/>
+## Views and Followers
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kalpana123-1&label=Profile%20views&color=0e75b6&style=flat" alt="1234" /> </p>
+<a href="https://github.com/kalpana123-1?tab=followers"><img src="https://img.shields.io/github/followers/kalpana123-1?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
-
-## Views 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaista78&label=Profile%20views&color=0e75b6&style=flat" alt="1234" /> </p>
