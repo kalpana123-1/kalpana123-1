@@ -17,6 +17,7 @@
 - 📄 Know about my education [Resume](https://drive.google.com/file/d/1x0hBf_XQ6Eathjlo4W_10lhgWbYDXZY1/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
+
 <br/>
 
 ### Get in touch with:
