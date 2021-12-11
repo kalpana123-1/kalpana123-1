@@ -2,7 +2,7 @@
     <h3 align="left"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm passionate programmer and enthusiastic developer with a keen interest in software development and Coompetitive Programming. My love towards web developement made me to build and apply algorithms to solve real-world problems.
     <br/>
     </h3>
-    <h3 align="left"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As a professional, I am passionate and excited by innovation. As an engineer, I am detail-oriented and analytical and a good problem solver.I really love to collaborate with other developers on interesting projects.</h3>
+    <h3 align="left"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As a professional, I am passionate and excited by innovation. As an engineer, I am detail-oriented and analytical and a good problem solver. I really love to collaborate with other developers on interesting projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaista78&label=Profile%20views&color=0e75b6&style=flat" alt="1234" /> </p>
 
