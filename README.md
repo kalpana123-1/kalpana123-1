@@ -1,9 +1,8 @@
 <h1 align="left">Hi 👋, I'm Kalpana Tamatam</h1>
-    <h3 align="left"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm a passionate programmer and enthusiastic developer with a keen interest in software development and Competitive Programming. My love towards web developement made me to build and apply algorithms to solve real-world problems.</h3>
-    <h3 align="left"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As a professional, I am passionate and excited by innovation. As an engineer, I am detail-oriented and analytical and a good problem solver. I really love to collaborate with other developers on interesting projects.</h3>
-<br/>
 
 ### About Me:
+    <h3 align="left"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm a passionate programmer and enthusiastic developer with a keen interest in software development and Competitive Programming. My love towards web developement made me to build and apply algorithms to solve real-world problems.</h3>
+    <h3 align="left"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As a professional, I am passionate and excited by innovation. As an engineer, I am detail-oriented and analytical and a good problem solver. I really love to collaborate with other developers on interesting projects.</h3>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
@@ -53,8 +52,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalpana123-1&show_icons=true&locale=en&layout=compact" alt="kalpana123-1" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=kalpana123-1&show_icons=true&locale=en" alt="kalpana123-1" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalpana123-1&" alt="kalpana123-1" /></p>
 <br/>
-## Views and Followers
+## Views
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalpana123-1&label=Profile%20views&color=0e75b6&style=flat" alt="1234" /> </p>
-<a href="https://github.com/kalpana123-1?tab=followers"><img src="https://img.shields.io/github/followers/kalpana123-1?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
