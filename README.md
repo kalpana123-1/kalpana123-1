@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Kalpana Tamatam</h1>
-    <h3 align="left"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm a passionate programmer and enthusiastic developer with a keen interest in software development and Competitive Programming. My love towards web developement made me to build and apply algorithms to solve real-world problems.</h3>
+    <h3 align="left"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm passionate programmer and an enthusiastic developer with a keen interest in software development and Competitive Programming. My love towards web developement made me to build and apply algorithms to solve real-world problems.</h3>
     <h3 align="left"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As a professional, I am passionate and excited by innovation. As an engineer, I am detail-oriented and analytical and a good problem solver. I really love to collaborate with other developers on interesting projects.</h3>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
