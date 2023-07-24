@@ -8,7 +8,7 @@
 
 - 📝 I Started writing Blogs [medium](https://medium.com/@kalpanathamatam1822000)
 
-- 💬 Ask me about **HTML,CSS,Reactjs**
+- 💬 Ask me about **HTML,CSS,Reactjs,Nodejs,MySQL,Pyhton,Flask**
 
 - 📫 How to reach me **kalpanathamatam1822000@gmail.com**
 
