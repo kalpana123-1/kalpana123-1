@@ -29,7 +29,7 @@
 - 🚀 Languages - **HTML, CSS, JavaScript, Java**
 - 🚀 FrameWork/Libraries - **React.js, Express.js**
 - 🚀 Databases/Backend - **MongoDB, Redis, Node.js, Mysql**
-- 🚀 Others - **Git, Python, VSCode, Postman**
+- 🚀 Others - **Git, Python, VSCode, Postman, MobaXterm, MySql Workbench**
 
 <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
